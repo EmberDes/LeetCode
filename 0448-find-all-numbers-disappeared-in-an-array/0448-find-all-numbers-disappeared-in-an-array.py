@@ -10,14 +10,11 @@ class Solution:
                 nums[correct] = temp
             else:
                 i += 1
-        print(nums)
         l=[]
         a =1
         for c in nums:
             if c != a:
                 l.append(a)
-                a +=1
-            else:
-                a +=1
+            a +=1
         return l
                 
