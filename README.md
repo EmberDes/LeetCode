@@ -17,6 +17,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/EmberDes/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [2109-adding-spaces-to-a-string](https://github.com/EmberDes/LeetCode/tree/master/2109-adding-spaces-to-a-string) |
 ## Sliding Window
 |  |
 | ------- |
@@ -25,4 +26,16 @@
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/EmberDes/LeetCode/tree/master/0007-reverse-integer) |
+## Array
+|  |
+| ------- |
+| [2109-adding-spaces-to-a-string](https://github.com/EmberDes/LeetCode/tree/master/2109-adding-spaces-to-a-string) |
+## Two Pointers
+|  |
+| ------- |
+| [2109-adding-spaces-to-a-string](https://github.com/EmberDes/LeetCode/tree/master/2109-adding-spaces-to-a-string) |
+## Simulation
+|  |
+| ------- |
+| [2109-adding-spaces-to-a-string](https://github.com/EmberDes/LeetCode/tree/master/2109-adding-spaces-to-a-string) |
 <!---LeetCode Topics End-->
