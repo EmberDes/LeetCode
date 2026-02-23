@@ -17,6 +17,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/EmberDes/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0125-valid-palindrome](https://github.com/EmberDes/LeetCode/tree/master/0125-valid-palindrome) |
 | [2109-adding-spaces-to-a-string](https://github.com/EmberDes/LeetCode/tree/master/2109-adding-spaces-to-a-string) |
 ## Sliding Window
 |  |
@@ -33,6 +34,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/EmberDes/LeetCode/tree/master/0125-valid-palindrome) |
 | [2109-adding-spaces-to-a-string](https://github.com/EmberDes/LeetCode/tree/master/2109-adding-spaces-to-a-string) |
 ## Simulation
 |  |
